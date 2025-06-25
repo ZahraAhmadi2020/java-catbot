@@ -1,0 +1,5 @@
+com/zahracatbot/cats/CatController.class
+com/zahracatbot/cats/CatRepository.class
+com/zahracatbot/cats/CatServiceApplication.class
+com/zahracatbot/cats/CatService.class
+com/zahracatbot/cats/config/RabbitMQConfig.class

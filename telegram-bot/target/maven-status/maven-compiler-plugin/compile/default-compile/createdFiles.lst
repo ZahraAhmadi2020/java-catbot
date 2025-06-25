@@ -1,0 +1,6 @@
+com/zahracatbot/telegram/ZahraCatBotWrapper.class
+com/zahracatbot/telegram/config/TelegramConfig.class
+com/zahracatbot/telegram/config/RabbitMQConfig.class
+com/zahracatbot/telegram/TelegramBotApplication.class
+com/zahracatbot/telegram/ZahraCatBot.class
+com/zahracatbot/telegram/CatActionHandler.class
