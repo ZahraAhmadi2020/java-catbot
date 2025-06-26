@@ -1,4 +1,35 @@
+# Скомпилированные классы
+*.class
+
+# Файлы сборки
 target/
-*.DS_Store
+build/
+out/
+bin/
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Файлы IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
 .vscode/
 
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Файлы зависимостей Maven
+dependency-reduced-pom.xml
+
+# Файлы кэша Maven и Gradle
+.m2/
+.gradle/
