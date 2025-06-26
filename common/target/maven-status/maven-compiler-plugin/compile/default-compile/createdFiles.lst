@@ -1,0 +1,4 @@
+com/zahracatbot/common/model/Comment.class
+com/zahracatbot/common/model/CatAction.class
+com/zahracatbot/common/service/CatServiceInterface.class
+com/zahracatbot/common/model/Cat.class
